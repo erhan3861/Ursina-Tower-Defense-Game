@@ -1,3 +1,5 @@
+![tower_defense](https://github.com/erhan3861/Ursina-Tower-Defense-Game/assets/71086723/7c2c5ef5-7e8b-4d30-802e-882df33b70aa)
+
 ## Project Description
 
 This GitHub repository hosts the source code for a Tower Defense game developed using the Ursina game engine. Tower Defense games are popular for their strategic gameplay, and this project offers a unique take on the genre. In this game, players are tasked with defending a path against oncoming waves of enemies by strategically placing defensive towers.
@@ -15,7 +17,6 @@ This GitHub repository hosts the source code for a Tower Defense game developed 
 - **Interactive Environment**: Click on the grid to interact with the game world. Select and highlight specific cubes to mark your path or place towers.
 
 - **Camera Control**: The game features an EditorCamera that allows you to view the game world from a top-down perspective, giving you a clear view of the battlefield.
-
 ### How to Play
 
 1. Run the game and observe the 3D environment with its grid-based terrain.
