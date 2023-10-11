@@ -1,6 +1,6 @@
 from ursina import *
 from ursina.shaders import basic_lighting_shader as bls
-from ders15_move import *
+from enemy import *
 
 Entity.default_shader = bls
 
