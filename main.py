@@ -102,7 +102,7 @@ for x in range(20):
         cube.on_click = lambda x=cube: on_click_cube(x)
         grounds.append(cube)
 
-# Yukarıdan oyun alanına doğru bakacak bir kamera ekleyin
+# cam settings
 cam = EditorCamera()
 cam.position = Vec3(10.4199, 13.6906, -4)
 cam.rotation = Vec3(50.9669, -1.30302, 0)
